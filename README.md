@@ -1,5 +1,5 @@
 ## ️99slayer️
-
+• The Odin Project | Full Stack JavaScript | NodeJS
 <!--
 **99slayer/99slayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
