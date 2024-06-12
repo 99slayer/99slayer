@@ -13,10 +13,6 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=99slayer&theme=dark&hide_border=true&card_width=340&card_height=160)](https://git.io/streak-stats)
-
-<br>
-
 <!--
 #FDF500FF <== yellow color
 ![](https://komarev.com/ghpvc/?username=99slayer&color=yellow)
