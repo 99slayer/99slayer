@@ -20,6 +20,14 @@ jobs:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: languages.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 4
       - name: Topics
         uses: lowlighter/metrics@latest
         with:
