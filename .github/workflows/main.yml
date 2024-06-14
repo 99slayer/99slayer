@@ -19,4 +19,4 @@ jobs:
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, repositories
+          base: header, repositories
