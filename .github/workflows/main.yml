@@ -17,14 +17,14 @@ jobs:
       - name: General
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.classic.svg
+          filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories, activity, community, metadata
+          base: header, repositories
           base_hireable: yes
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
-          filename: languages.classic.svg
+          filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -37,7 +37,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
       - name: Topics
         uses: lowlighter/metrics@latest
         with:
