@@ -4,15 +4,17 @@
 // tech stack
 // projects
 // simple stats
-|<p><img src="/metrics.classic.svg" alt="Metrics" width="380"></p>|<p><img src="/languages.classic.svg" alt="Metrics" width="380"></p>|
+|[<img align="left" width="380" src="/metrics.classic.svg">](#)|[<img align="left" width="380" src="/languages.classic.svg">](#)|
 |---|---|
-<p><img src="/topics.classic.svg" alt="Metrics"></p>
+
+|[<img align="left" width="380" src="/calender.svg">](#)|
+|---|
+|[<img align="left" width="380" src="/topics.svg">](#)|
 --->
 
-|[<img align="left" width="390" src="/metrics.classic.svg">](#)|
-|---|
-|[<img align="left" width="390" src="/languages.classic.svg">](#)|
-|[<img align="left" width="390" src="/topics.classic.svg">](#)|
+|[<img align="left" width="380" src="/metrics.classic.svg">](#)|[<img align="left" width="380" src="/calender.svg">](#)|
+|---|---|
+|[<img align="left" width="380" src="/languages.classic.svg">](#)|[<img align="left" width="380" src="/topics.svg">](#)|
 
 <!--- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FDFDFD&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=32&lines=Learning)](https://git.io/typing-svg)
 
