@@ -5,7 +5,7 @@
 // projects
 // simple stats
 --->
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<p><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FDFDFD&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=32&lines=Learning)](https://git.io/typing-svg)
 
