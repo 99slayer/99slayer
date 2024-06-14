@@ -20,3 +20,13 @@ jobs:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
+      - name: Topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: topics.classic.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: no
+          plugin_topics_mode: icons
+          
